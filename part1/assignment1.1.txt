@@ -1,0 +1,13 @@
+Script started on Wed Apr 21 18:28:37 2021
+Restored session: Wed Apr 21 18:27:26 +04 2021
+[1m[7m%[27m[1m[0m                                                                                                                   ]7;file://MacBook-admin.local/Users/admin/Desktop/Studies/Docker/devops_docker/part1[0m[27m[24m[Jadmin@MacBook-admin part1 % [K[?2004hddocker container          ps -a[?2004l
+CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS                          PORTS     NAMES
+4fccf9d2ecec   nginx     "/docker-entrypoint.…"   About a minute ago   Exited (0) About a minute ago             fervent_tu
+55e43af0d8e3   nginx     "/docker-entrypoint.…"   2 minutes ago        Exited (0) About a minute ago             amazing_driscoll
+3535b8ba095c   nginx     "/docker-entrypoint.…"   2 minutes ago        Up 2 minutes                    80/tcp    busy_yalow
+[1m[7m%[27m[1m[0m                                                                                                                   ]7;file://MacBook-admin.local/Users/admin/Desktop/Studies/Docker/devops_docker/part1[0m[27m[24m[Jadmin@MacBook-admin part1 % [K[?2004h[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed Apr 21 18:28:46 2021

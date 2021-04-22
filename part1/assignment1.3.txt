@@ -1,0 +1,24 @@
+Script started on Thu Apr 22 19:40:32 2021
+Restored session: Thu Apr 22 19:40:16 +04 2021
+[1m[7m%[27m[1m[0m                                                                                                                 ]7;file://MacBook-admin.local/Users/admin/Desktop/Studies/Docker/devops_docker/part1[0m[27m[24m[Jadmin@MacBook-admin part1 % [K[?2004hddocker run -d --name test [7m4e3362e907d5[27m[12D[27m4[27me[27m3[27m3[27m6[27m2[27me[27m9[27m0[27m7[27md[27m5[?2004l
+1c59c2f9923e41daedca1ca45726d0c6ad344b0d09128a01ae3b3231351f30be
+[1m[7m%[27m[1m[0m                                                                                                                 ]7;file://MacBook-admin.local/Users/admin/Desktop/Studies/Docker/devops_docker/part1[0m[27m[24m[Jadmin@MacBook-admin part1 % [K[?2004hddocker exec test [7mtail -f ./text.log[27m[18D[27mt[27ma[27mi[27ml[27m [27m-[27mf[27m [27m.[27m/[27mt[27me[27mx[27mt[27m.[27ml[27mo[27mg[?2004l
+2021-04-22 15:40:48 +0000 UTC
+2021-04-22 15:40:50 +0000 UTC
+2021-04-22 15:40:52 +0000 UTC
+2021-04-22 15:40:54 +0000 UTC
+2021-04-22 15:40:56 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2021-04-22 15:40:58 +0000 UTC
+2021-04-22 15:41:00 +0000 UTC
+2021-04-22 15:41:02 +0000 UTC
+2021-04-22 15:41:04 +0000 UTC
+2021-04-22 15:41:06 +0000 UTC
+^DSecret message is: 'You can find the source code here: https://github.com/docker-hy'
+2021-04-22 15:41:08 +0000 UTC
+^C[1m[7m%[27m[1m[0m                                                                                                                 ]7;file://MacBook-admin.local/Users/admin/Desktop/Studies/Docker/devops_docker/part1[0m[27m[24m[Jadmin@MacBook-admin part1 % [K[?2004h[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Apr 22 19:41:10 2021

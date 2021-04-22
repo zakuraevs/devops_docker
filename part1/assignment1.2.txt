@@ -1,10 +1,22 @@
 Script started on Wed Apr 21 18:33:16 2021
 Restored session: Wed Apr 21 18:32:46 +04 2021
-[1m[7m%[27m[1m[0m                                                                                                                   ]7;file://MacBook-admin.local/Users/admin[0m[27m[24m[Jadmin@MacBook-admin ~ % [K[?2004hddocker ps -a[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                  
+ 
+]7;file://MacBook-admin.local/Users/admin
+[0m[27m[24m[Jadmin@MacBook-admin ~ % [K[?2004hddocker ps -a[?2004l
+
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
-[1m[7m%[27m[1m[0m                                                                                                                   ]7;file://MacBook-admin.local/Users/admin[0m[27m[24m[Jadmin@MacBook-admin ~ % [K[?2004hddocker images[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                  
+ 
+]7;file://MacBook-admin.local/Users/admin
+[0m[27m[24m[Jadmin@MacBook-admin ~ % [K[?2004hddocker images[?2004l
+
 REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
-[1m[7m%[27m[1m[0m                                                                                                                   ]7;file://MacBook-admin.local/Users/admin[0m[27m[24m[Jadmin@MacBook-admin ~ % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                  
+ 
+]7;file://MacBook-admin.local/Users/admin
+[0m[27m[24m[Jadmin@MacBook-admin ~ % [K[?2004h[?2004l
+
 Saving session...
 ...saving history...truncating history files...
 ...completed.
